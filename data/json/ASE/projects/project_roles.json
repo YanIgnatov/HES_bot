@@ -1,0 +1,10 @@
+{
+    "text": "Вот пример ролей в нашей проектной деятельности",
+	"attachments":[ 
+			"images/projectroles.png"]
+			,
+    "buttons": {
+        "Назад": "json/ASE/projects/projects.json",
+        "Главная": "welcome_message.json"
+    }
+}

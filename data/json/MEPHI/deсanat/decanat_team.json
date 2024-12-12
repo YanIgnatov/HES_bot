@@ -1,0 +1,10 @@
+{
+    "text": "Бойко О.В.\nЖабицкий М. Г.\nВолобуева Т.Д. \n TODO",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Назад": "json/MEPHI/mephi.json",
+        "Главная": "welcome_message.json"
+    }
+}

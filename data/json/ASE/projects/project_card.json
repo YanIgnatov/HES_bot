@@ -1,0 +1,8 @@
+{
+    "text": "Открываю презентацию с карточками проектов на этот семестр",
+    "attachments": ["documents/projects.pdf"],
+    "buttons": {
+        "Назад": "json/ASE/projects/projects.json",
+        "Главная": "welcome_message.json"
+    }
+}

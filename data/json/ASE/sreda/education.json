@@ -1,0 +1,15 @@
+{
+    "text": "Выберите вопрос",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Хакатон «АтомХак» для студентов ВИШ НИЯУ МИФИ ": "json/ASE/sreda/hackathon.json",
+        "Как войти в РекордМобайл": "json/ASE/sreda/record_mobile.json",
+        "Расписание": "json/ASE/sreda/schedule.json",
+        "Из кого состоит команда ВИШ АСЭ?": "json/ASE/sreda/ase_team.json",
+        "TeachBase": "json/ASE/sreda/TeachBase.json",
+        "Назад": "json/ASE/ase.json",
+        "Главная": "welcome_message.json"
+    }
+}

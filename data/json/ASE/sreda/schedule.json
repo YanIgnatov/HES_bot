@@ -1,0 +1,10 @@
+{
+    "text": "Расписание публикуется каждый вторник в чате потока",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Назад": "json/ASE/sreda/education.json",
+        "Главная": "welcome_message.json"
+    }
+}

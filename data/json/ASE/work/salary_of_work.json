@@ -1,0 +1,10 @@
+{
+    "text": "Зарплата в АСЭ",
+    "attachments": [
+        "images/salary_ASE.png"
+    ],
+    "buttons": {
+        "Назад": "json/ASE/work/work.json",
+        "Главная": "welcome_message.json"
+    }
+}

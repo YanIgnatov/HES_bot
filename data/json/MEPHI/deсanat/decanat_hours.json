@@ -1,0 +1,10 @@
+{
+    "text": "10:00-17:00\n13:00-14:00 обед\nTODO",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Назад": "json/MEPHI/mephi.json",
+        "Главная": "welcome_message.json"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "text": "https://t.me/eldabaanpp",
+    "attachments": [
+        null
+    ],
+    "buttons": {
+        "Назад к списку ссылок": "json/ASE/corporate_life/tg-sourses.json",
+		"Назад к меню": "json/ASE/ase.json"
+    }
+}

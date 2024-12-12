@@ -1,0 +1,13 @@
+{
+    "text": "Основные вопросы, которые касаются выпускной квалификационной работы",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Cписок научных руководителей": "json/MEPHI/vkr/scientific_supervisors_list.json",
+		"краткое руководство по написанию диплома и что делать": "json/MEPHI/vkr/diploma_guide.json",
+		"Что делать, если нету темы и научного руководителя?": "json/MEPHI/vkr/diploma_guide2.json",
+        "Назад в меню": "json/MEPHI/mephi.json",
+        "Главная": "welcome_message.json"
+    }
+}

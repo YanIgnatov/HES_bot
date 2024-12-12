@@ -1,0 +1,10 @@
+{
+    "text": "Раздел пока не готов!",
+    "attachments": [
+
+    ],
+    "buttons": {
+        "Назад": "json/MEPHI/mephi.json",
+        "Главная": "welcome_message.json"
+    }
+}

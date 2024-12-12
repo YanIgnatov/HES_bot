@@ -1,0 +1,10 @@
+{
+    "text": "Открываю презентацию по методологиям ведения проектов",
+	"attachments": [
+		"documents/project_metodoliges.pdf"
+	],
+    "buttons": {
+        "Назад": "json/ASE/projects/projects.json",
+        "Главная": "welcome_message.json"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "text": "ВК и Телеграмм Совета общежитий\n https://vk.com/somephi \n https://t.me/somephi",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Назад": "json/MEPHI/dormitory/dormitory.json",
+        "Главная": "welcome_message.json"
+    }
+}

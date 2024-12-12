@@ -1,0 +1,14 @@
+{
+    "text": "Вопрос из какой области вас интересует?",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Общежитие": "json/MEPHI/dormitory/dormitory.json",
+        "Деканат": "json/MEPHI/deсanat/decanat.json",
+        "Учебные вопросы": "json/MEPHI/study_questions/study_questions.json",
+        "ВКР": "json/MEPHI/vkr/vkr.json",
+        "Военная кафедра": "json/MEPHI/military/military.json",
+        "Назад": "welcome_message.json"
+    }
+}

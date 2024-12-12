@@ -1,0 +1,13 @@
+{
+    "text": "Основные типы трудоустройства в АСЭ:",
+    "attachments": [
+
+    ],
+    "buttons": {
+        "Устройство на основное место работы": "json/ASE/work/main_work.json",
+        "Устройство по совместительству": "json/ASE/work/part_work.json",
+        "Я сотрудник отрасли": "json/ASE/work/industry_work.json",
+        "Назад": "json/ASE/work/work.json",
+        "Главная": "welcome_message.json"
+    }
+}

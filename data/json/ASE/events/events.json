@@ -1,0 +1,10 @@
+{
+    "text": "Раздел пока не готов!",
+    "attachments": [
+
+    ],
+    "buttons": {
+        "Назад": "json/ASE/ase.json",
+        "Главная": "welcome_message.json"
+    }
+}

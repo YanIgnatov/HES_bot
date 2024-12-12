@@ -1,0 +1,19 @@
+{
+    "text": "Проектная деятельность",
+    "attachments": [
+
+    ],
+    "buttons": {
+		"Пример заполнения протокола ежедневного созвона": "json/ASE/projects/protocol_ex.json",
+		"Порядок согласования протокола": "json/ASE/projects/Protocol_order.json",
+		"Какие роли есть в проекте?": "json/ASE/projects/project_roles.json",
+		"Основные методологии ведения проекта": "json/ASE/projects/project_methodologies.json",
+		"Проекты на текущий семестр": "json/ASE/projects/project_card.json",
+		"Дата защиты проектов": "json/ASE/projects/zashita.json",
+		"Шаблон презентации АСЭ для проекта": "json/ASE/projects/shablon.json",
+		"Пример документации для проекта": "json/ASE/projects/shablondoc.json",
+		"Первая встреча наставника и команды проекта": "json/ASE/projects/firstmeet.json",
+		"Назад": "json/ASE/ase.json",
+        "Главная": "welcome_message.json"
+	}
+}

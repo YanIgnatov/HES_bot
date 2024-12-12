@@ -1,0 +1,10 @@
+{
+    "text": "Раздел дорабатывается!",
+    "attachments": [
+
+    ],
+    "buttons": {
+        "Назад": "json/ASE/work/work.json",
+        "Главная": "welcome_message.json"
+    }
+}

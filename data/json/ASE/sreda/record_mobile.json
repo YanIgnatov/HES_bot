@@ -1,0 +1,10 @@
+{
+    "text": "Памятка",
+    "attachments": [
+        "documents/record_mobile.pdf"
+    ],
+    "buttons": {
+        "Назад": "json/ASE/ase.json",
+        "Главная": "welcome_message.json"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "text": "ссылка для входа через ПК: https://mail.niaepnn.ru/owa/",
+    "attachments": [
+        
+    ],
+    "buttons": {
+		"Назад":"json/ASE/passwords/passwords.json",
+		"Главная": "welcome_message.json"
+    }
+}

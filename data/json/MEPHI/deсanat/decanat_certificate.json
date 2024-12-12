@@ -1,0 +1,10 @@
+{
+    "text": "Обращайтесь в Г119",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Назад": "json/MEPHI/mephi.json",
+        "Главная": "welcome_message.json"
+    }
+}

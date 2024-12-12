@@ -1,0 +1,10 @@
+{
+    "text": "Вот пример протокола",
+	"attachments":[ 
+			"documents/Протокол №4 встречи 13.11.24.pdf"
+    ],
+    "buttons": {
+        "Назад": "json/ASE/projects/projects.json",
+        "Главная": "welcome_message.json"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "text": "Ок, лови.",
+    "attachments": [
+        "documents/qr_codes.pdf"
+    ],
+    "buttons": {
+        "Назад к списку ссылок": "json/ASE/corporate_life/tg-sourses.json",
+		"Назад к меню": "json/ASE/ase.json"
+    }
+}

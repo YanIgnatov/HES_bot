@@ -1,0 +1,10 @@
+{
+    "text": "Файл с шаблоном",
+    "attachments": [
+        "documents/anketa.pdf"
+    ],
+    "buttons": {
+        "Назад": "json/ASE/work/work.json",
+        "Главная": "welcome_message.json"
+    }
+}

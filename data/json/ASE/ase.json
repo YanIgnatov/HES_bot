@@ -1,0 +1,15 @@
+{
+    "text": "Вопрос из какой области вас интересует?",
+    "attachments": [
+    ],
+    "buttons": {
+        "Образовательная среда": "json/ASE/sreda/education.json",
+        "Проектная деятельность": "json/ASE/projects/projects.json",
+        "Трудоустройство": "json/ASE/work/work.json",
+        "Логины и пароли": "json/ASE/passwords/passwords.json",
+        "Корпоративная жизнь": "json/ASE/corporate_life/corporate_life.json",
+        "Карьерная консультация": "json/ASE/career_consultations/career_consultations.json",
+        "Мероприятия": "json/ASE/events/events.json",
+        "Главная": "welcome_message.json"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"text": "Обратитесь к Бойко Ольге Владимировне. Контакт в телеграмм @ovboyko",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Назад": "json/MEPHI/vkr/vkr.json",
+        "Главная": "welcome_message.json"
+    }
+}

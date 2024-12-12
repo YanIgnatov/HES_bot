@@ -1,0 +1,8 @@
+{
+    "text": "Выдаю архив с примером документации по проекту. Пользуйтесь на здоровье!",
+	"attachments":["documents/Шаблоны документации проекта.zip"],
+    "buttons": {
+        "Назад": "json/ASE/projects/projects.json",
+        "Главная": "welcome_message.json"
+    }
+}

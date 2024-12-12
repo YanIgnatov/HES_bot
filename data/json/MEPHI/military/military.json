@@ -1,0 +1,13 @@
+{
+    "text": "Выберите вопрос",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Основные требования к студентам НИЯУ МИФИ, участвующим в конкурсном отборе для допуска к военной подготовке по всем программам обучения": "json/MEPHI/military/military_requirement.json",
+        "Часто задаваемые вопросы": "json/MEPHI/military/military_faq.json",
+        "Особенность организации военной подготовки в НИЯУ МИФИ": "json/MEPHI/military/military_specific.json",
+        "Назад": "json/MEPHI/mephi.json",
+        "Главная": "welcome_message.json"
+    }
+}

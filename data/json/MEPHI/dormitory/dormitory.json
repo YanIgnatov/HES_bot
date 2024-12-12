@@ -1,0 +1,13 @@
+{
+    "text": "Выберите вопрос",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Могу ли я получить общежитие, если учусь на коммерческой основе?": "json/MEPHI/dormitory/dormitory_commerce.json",
+        "Можно ли снять комнату в общежитии?": "json/MEPHI/dormitory/dormitory_rent.json",
+        "Где можно получить актуальную информацию по общежитиям?": "json/MEPHI/dormitory/dormitory_info.json",
+        "Назад": "json/MEPHI/mephi.json",
+        "Главная": "welcome_message.json"
+    }
+}

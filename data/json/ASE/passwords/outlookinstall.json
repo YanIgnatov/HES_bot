@@ -1,0 +1,10 @@
+{
+    "text": "Открываю инструкцию",
+    "attachments": [
+        "documents/Инструкция почта.pdf"
+    ],
+    "buttons": {
+		"Назад":"json/ASE/passwords/passwords.json",
+		"Главная": "welcome_message.json"
+    }
+}

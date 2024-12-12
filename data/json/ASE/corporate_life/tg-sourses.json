@@ -1,0 +1,17 @@
+{
+    "text": "О чем тебе хотелось бы почитать(или перейди по QR-кодам в файле):",
+    "attachments": [
+        null
+    ],
+    "buttons": {
+        "О стройке в Эль-Дабаа": "json/ASE/corporate_life/el_dabaa.json",
+		"Об АСЭ и инжиниринговом дивизионе": "json/ASE/corporate_life/ase_tg.json",
+		"О стройке на проекте Руппур": "json/ASE/corporate_life/ruppur.json",
+		"Да в целом о стройке": "json/ASE/corporate_life/stroyka.json",
+		"О ВИШе!": "json/ASE/corporate_life/hes_tg.json",
+		"А есть страница в VK?": "json/ASE/corporate_life/ase_vk.json",
+		"Дай QR на все, я выберу": "json/ASE/corporate_life/qr_pdf.json",
+		"Назад": "json/ASE/ase.json",
+		"Главная": "welcome_message.json"
+    }
+}

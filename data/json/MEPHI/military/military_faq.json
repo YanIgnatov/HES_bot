@@ -1,0 +1,14 @@
+{
+    "text": "Что именно вас интересует?",
+    "attachments": [
+        
+    ],
+    "buttons": {
+        "Какие документы и в какие сроки студент должен представить на военную кафедру?": "json/MEPHI/military/military_faq_docs.json",
+        "Как девушкам пройти медицинскую комиссию?": "json/MEPHI/military/military_faq_womans.json",
+        "Как проходить медицинскую комиссию в военкомате, если он в другом городе?": "json/MEPHI/military/military_faq_other_city.json",
+        "В каком виде необходимо заказать справку об отсутствии судимости: бумажном или электронном?": "json/MEPHI/military/military_faq_criminal.json",
+        "Назад": "json/MEPHI/military/military.json",
+        "Главная": "welcome_message.json"
+    }
+}

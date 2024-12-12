@@ -1,0 +1,9 @@
+{
+    "text": "Открываю шаблон АСЭ для презентации проекта. Пользуйтесь на здоровье!",
+	"attachments":[ 
+			"documents/Шаблон для презентации проекта.pptx"],
+    "buttons": {
+        "Назад": "json/ASE/projects/projects.json",
+        "Главная": "welcome_message.json"
+    }
+}
