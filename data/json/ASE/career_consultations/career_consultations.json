@@ -1,9 +1,11 @@
 {
-    "text": "Раздел пока не готов!",
+    "text": "Основные вопросы, которые касаются карьерной консультации",
     "attachments": [
 
     ],
     "buttons": {
+        "Что такое карьерная консультация?": "json/ASE/career_consultations/career_what.json",
+		"Как записаться на карьерную консультацию?": "json/ASE/career_consultations/career_booking.json",
         "Назад": "json/ASE/ase.json",
         "Главная": "welcome_message.json"
     }

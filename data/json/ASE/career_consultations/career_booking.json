@@ -1,0 +1,10 @@
+{
+    "text": "1. Обратиться по данному вопросу к Дарье Семеновой\ntg: @darya_taylor\nИЛИ\n1. Направить заявку на адрес: career@ase-ec.ru, с Вами свяжется карьерный консультант или координатор и согласует удобную дату и время\n2. Записаться на внутреннем портале Инжинирингового дивизиона по ссылке: http://home.ase-ec.ru/career_/successor/consultation",
+    "attachments": [
+
+    ],
+    "buttons": {
+        "Назад": "json/ASE/career_consultations/career_consultations.json",
+        "Главная": "welcome_message.json"
+    }
+}
