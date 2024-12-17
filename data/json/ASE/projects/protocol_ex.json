@@ -1,7 +1,7 @@
 {
     "text": "Вот пример протокола",
 	"attachments":[ 
-			"documents/Протокол №4 встречи 13.11.24.pdf"
+			"documents/Протокол_встречи_шаблон.pdf"
     ],
     "buttons": {
         "Назад": "json/ASE/projects/projects.json",
