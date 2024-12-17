@@ -4,8 +4,8 @@
         null
     ],
     "buttons": {
-        "Первая кнопка": "json/ASE/ase.json",
-        "Вторая кнопка": "json/MEPHI/mephi.json",
+        "АСЭ": "json/ASE/ase.json",
+        "МИФИ": "json/MEPHI/mephi.json",
         "Назад":"welcome_message.json"
     }
 }
