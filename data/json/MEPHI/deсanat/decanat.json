@@ -5,7 +5,7 @@
     ],
     "buttons": {
         "Как заказать справку об обучении для военкомата?": "json/MEPHI/deсanat/decanat_certificate.json",
-        "Каковы часы работы деканата?": "json/MEPHI/deсanat/decanat_hours.json",
+        "Как попасть в деканат?": "json/MEPHI/deсanat/decanat_hours.json",
         "Из кого состоит команда ВИШ МИФИ?": "json/MEPHI/deсanat/decanat_team.json",
         "Назад": "json/MEPHI/mephi.json",
         "Главная": "welcome_message.json"

@@ -1,0 +1,10 @@
+{
+    "text": "Зайдите на портал https://home.mephi.ru/bookmarks и выберете соответствующий раздел. Далее следуйте инструкциям на портале",
+    "attachments": [
+
+    ],
+    "buttons": {
+        "Назад": "json/MEPHI/study_questions/study_questions.json",
+        "Главная": "welcome_message.json"
+    }
+}

@@ -1,10 +1,10 @@
 {
-    "text": "Выберите вопрос",
+    "text": "Что вас интересует?",
     "attachments": [
 
     ],
     "buttons": {
-        "Официальный каналы в ТГ": "json/ASE/corporate_life/tg-sourses.json",
+        "Официальные каналы в Telegram": "json/ASE/corporate_life/tg-sourses.json",
         "Спортзал в АСЭ": "json/ASE/corporate_life/ase_gym.json",
         "ATOMIX": "json/ASE/corporate_life/ATOMIX.json",
         "Назад": "json/ASE/ase.json",

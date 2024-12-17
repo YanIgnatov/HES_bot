@@ -1,10 +1,12 @@
 {
-    "text": "Раздел пока не готов!",
+    "text": "Основные вопросы, которые касаются учебной деятельности",
     "attachments": [
 
     ],
     "buttons": {
-        "Назад": "json/MEPHI/mephi.json",
+        "Как получить социальную карту?": "json/MEPHI/study_questions/social_card.json",
+        "Цифровой полигон ВИШ": "json/MEPHI/study_questions/HES_poligon.json",
+        "Назад в меню": "json/MEPHI/mephi.json",
         "Главная": "welcome_message.json"
     }
 }

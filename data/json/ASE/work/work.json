@@ -4,12 +4,11 @@
 
     ],
     "buttons": {
-        "Какие есть типы трудоустройства?": "json/ASE/work/types_of_work.json",
         "Я хочу сменить тип трудоустройства": "json/ASE/work/change_of_work.json",
         "Зарплата": "json/ASE/work/salary_of_work.json",
         "Информация по трудоустройству": "json/ASE/work/info_work.json",
         "Какие документы нужны для трудоустройства?": "json/ASE/work/docs_work.json",
-        "Правила по направлению архива документов для трудоустройства": "json/ASE/work/archive.json",
+        "Оформление архива документов для трудоустройства": "json/ASE/work/archive.json",
         "Пример заполнения анкеты для трудоустройства?": "json/ASE/work/form_work.json",
         "Назад": "json/ASE/ase.json",
         "Главная": "welcome_message.json"

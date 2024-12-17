@@ -9,7 +9,6 @@
         "Логины и пароли": "json/ASE/passwords/passwords.json",
         "Корпоративная жизнь": "json/ASE/corporate_life/corporate_life.json",
         "Карьерная консультация": "json/ASE/career_consultations/career_consultations.json",
-        "Мероприятия": "json/ASE/events/events.json",
         "Главная": "welcome_message.json"
     }
 }
